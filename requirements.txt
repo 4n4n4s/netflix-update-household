@@ -1,4 +1,4 @@
-selenium==4.32.0
+selenium==4.33.0
 python-dotenv==1.1.0
 #notifications
 apprise==1.9.3
